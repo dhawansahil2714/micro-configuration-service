@@ -1,6 +1,6 @@
 spring:
   application:
-         name: Config_file
+         name: USER_SERVICE
        
 eureka:
   instance:
