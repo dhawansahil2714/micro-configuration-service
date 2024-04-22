@@ -1,6 +1,6 @@
-# spring:
-#   application:
-#          name: Config_file
+spring:
+  application:
+         name: Config_file
        
 eureka:
   instance:
